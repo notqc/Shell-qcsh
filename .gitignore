@@ -1,2 +1,4 @@
 /qcsh
+/qcsh-sanitize
 *.o
+__pycache__/
